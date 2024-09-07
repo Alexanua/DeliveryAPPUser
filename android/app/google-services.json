@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "473217744958",
+    "firebase_url": "https://delivery-app-16a04-default-rtdb.firebaseio.com",
+    "project_id": "delivery-app-16a04",
+    "storage_bucket": "delivery-app-16a04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473217744958:android:f858f1a2475b44e32b116f",
+        "android_client_info": {
+          "package_name": "ordeli.com.delivery_driver_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1J_MXJ-a6BH1USHW2JGEf273iZzrSNts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473217744958:android:25c43e4fa503922a2b116f",
+        "android_client_info": {
+          "package_name": "ordeli.com.delivery_seller_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1J_MXJ-a6BH1USHW2JGEf273iZzrSNts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473217744958:android:80a0c874c54495c12b116f",
+        "android_client_info": {
+          "package_name": "ordeli.com.delivery_user_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1J_MXJ-a6BH1USHW2JGEf273iZzrSNts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,67 @@
+name: delivery_user_app
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.1.2
+  geolocator: ^13.0.1
+  geocoding: ^3.0.0
+  firebase_core: ^2.24.2
+  shared_preferences: ^2.3.2
+  firebase_auth: ^4.16.0
+  cloud_firestore: ^4.14.0
+  firebase_storage: ^11.6.0
+  http: ^0.13.4
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^4.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - images/delivered.jpg
+    - images/delivery.jpg
+    - images/food-delivery.png
+    - images/login.png
+    - images/state.jpg
+    - images/welcome.png
+
+  fonts:
+    - family: Bebas
+      fonts:
+        - asset: assets/fonts/BebasNeue-Regular.ttf
+    - family: Lobster
+      fonts:
+        - asset: assets/fonts/Lobster-Regular.ttf
+    - family: Signatra
+      fonts:
+        - asset: assets/fonts/Signatra.ttf
+    - family: Varela
+      fonts:
+        - asset: assets/fonts/VarelaRound-Regular.ttf
